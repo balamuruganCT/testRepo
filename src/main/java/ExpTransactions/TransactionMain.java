@@ -231,6 +231,7 @@ public class TransactionMain {
                     System.exit(0);
                 default:
                     System.out.println("please select valid options");
+                    System.out.println("git test");
                     break;
             }
         }
